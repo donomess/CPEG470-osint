@@ -8,6 +8,7 @@ def main():
     print("I know! A president! Where did Biden give a campaign speech on October 6th during his run?")
     check_ans3()
     print("Good job! You're a pro at this. What's the coordinates of the building where Gettsyburg handle their finances?")
+    check_ans4()
 
 
 def check_ans1():
