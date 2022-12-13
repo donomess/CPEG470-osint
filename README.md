@@ -1,2 +1,6 @@
 # CPEG470-osint
-CPEG470 final project osint problem.
+Welcome to this simple OSINT problem!
+
+You go on a little web scavenger hunt across a few websites to find a password which gives you a flag if you get it right!
+
+Good luck!
